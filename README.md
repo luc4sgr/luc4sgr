@@ -7,6 +7,9 @@
         alt="lucasgranjense23"
         />
     </p>
+    <p>
+        <img src"https://www.codewars.com/users/lucasgranjense23/badges/small"/>
+    </p>
     <div style="display: flex">
         <h3 align="left">Connect with me:</h3>
         <a href="https://instagram.com/lucas.granjense" target="blank"
