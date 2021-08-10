@@ -8,7 +8,7 @@
         />
     </p>
     <p>
-        <img src"https://www.codewars.com/users/lucasgranjense23/badges/small"/>
+        <img src="https://www.codewars.com/users/lucasgranjense23/badges/small"/>
     </p>
     <div style="display: flex">
         <h3 align="left">Connect with me:</h3>
