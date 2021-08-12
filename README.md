@@ -1,6 +1,6 @@
 <h1 align="center">Welcome Develops!</h1>
     <h3 align="center">I'm Lucas Granjense</h3>
-    <h3 align="center">Front-end and mobile developer</h3>
+    <h3 align="center">Developer</h3>
     <p align="left">
       <img
         src="https://komarev.com/ghpvc/?username=lucasgranjense23&label=Profile%20views&color=ff0d00&style=flat-square"
