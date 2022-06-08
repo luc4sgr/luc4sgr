@@ -94,5 +94,5 @@
  <h2>About Me:</h2>
 Responsable for development and maintenance of scalable system applications made in react and flutter.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Granjense-ff6600?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgranjese/)](https://www.linkedin.com/in/lucasgranjese/) [![Gmail Badge](https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-ff6600?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)](mailto:https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Granjense-ff6600?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-granjense-5869811b8/)](https://www.linkedin.com/in/lucas-granjense-5869811b8/) [![Gmail Badge](https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-ff6600?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)](mailto:https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)
     
