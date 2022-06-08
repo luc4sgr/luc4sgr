@@ -68,7 +68,7 @@
           width="22"
           height="22"
         />
-        Steyled-components
+        Styled-components
       </li>
        <li>
         <img
