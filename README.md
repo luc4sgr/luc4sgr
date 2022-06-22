@@ -71,8 +71,8 @@
         Styled-components
       </li>
       <li>
-        <img
-          src="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png"
+     <img
+          src="https://miro.medium.com/max/624/0*Z-jwqyt2k8NbHaQe.png"
           alt="react"
           width="22"
           height="22"
