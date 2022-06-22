@@ -70,6 +70,15 @@
         />
         Styled-components
       </li>
+      <li>
+        <img
+          src="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png"
+          alt="react"
+          width="22"
+          height="22"
+        />
+        Framer
+      </li>
        <li>
         <img
           src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
