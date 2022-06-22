@@ -72,7 +72,7 @@
       </li>
       <li>
      <img
-          src="https://miro.medium.com/max/624/0*Z-jwqyt2k8NbHaQe.png"
+          src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png"
           alt="react"
           width="22"
           height="22"
