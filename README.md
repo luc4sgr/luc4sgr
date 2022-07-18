@@ -104,4 +104,10 @@
 Responsable for development and maintenance of scalable system applications made in react and flutter.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Granjense-996dff?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-granjense-5869811b8/)](https://www.linkedin.com/in/lucas-granjense-5869811b8/) [![Gmail Badge](https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-996dff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)](mailto:https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)
+
+<h2>Projects:</h2>
+
+[![CodeSandbox](https://img.shields.io/badge/LOCKED-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://0cyx8e.sse.codesandbox.io/)
+    
+    
     
