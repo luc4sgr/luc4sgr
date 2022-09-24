@@ -1,12 +1,9 @@
-
-
 <h1 align="leaft"> I'm Lucas Granjense 👋</h2><img align="right"src="https://i.pinimg.com/originals/ca/f7/95/caf7956e99ae518a2c70ec8d7d110089.gif"/>
 
 <h2 align="leaft"> Main Sckills: </h2>
    <li>
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
-          alt="react"
           width="22"
           height="22"
         />
@@ -15,7 +12,6 @@
      <li>
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-          alt="react"
           width="20"
           height="20"
         />
@@ -24,7 +20,6 @@
         <li>
         <img
           src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"
-          alt="react"
           width="20"
           height="20"
         />
@@ -33,7 +28,6 @@
               <li>
         <img
           src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"
-          alt="react"
           width="20"
           height="20"
         />
@@ -42,7 +36,6 @@
     <li>
         <img
           src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"
-          alt="react"
           width="20"
           height="20"
         />
@@ -51,20 +44,24 @@
     <li>
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          alt="react"
           width="20"
           height="20"
         />
         Postgres
       </li>
 
-
-
 <h2 align="leaft">Tools:</h3>
+<li>
+        <img
+          src="https://bestofjs.org/logos/stitches.svg"
+          width="22"
+          height="22"
+        />
+        Stitches
+      </li>
    <li>
         <img
           src="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png"
-          alt="react"
           width="22"
           height="22"
         />
@@ -73,7 +70,6 @@
       <li>
      <img
           src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png"
-          alt="react"
           width="22"
           height="22"
         />
@@ -82,7 +78,6 @@
        <li>
         <img
           src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
-          alt="react"
           width="22"
           height="22"
         />
@@ -91,7 +86,6 @@
          <li>
         <img
           src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-          alt="react"
           width="22"
           height="22"
         />
@@ -108,6 +102,3 @@ Responsable for development and maintenance of scalable system applications made
 <h2>Projects:</h2>
 
 [![CodeSandbox](https://img.shields.io/badge/LOCKED-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://0cyx8e.sse.codesandbox.io/)
-    
-    
-    
