@@ -41,6 +41,13 @@
         />
         NodeJs
       </li>
+      <li>
+        <img
+          src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
+          width="60"
+          height="40"
+        />
+      </li>
     <li>
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -51,6 +58,13 @@
       </li>
 
 <h2 align="leaft">Tools:</h3>
+<li>
+        <img
+          src="https://website-v9.vercel.app/logo-dark.svg"
+          width="80"
+          height="50"
+        />
+      </li>
 <li>
         <img
           src="https://bestofjs.org/logos/stitches.svg"
