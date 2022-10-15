@@ -1,6 +1,6 @@
 <h1 align="leaft"> I'm Lucas Granjense 👋</h2><img align="right"src="https://i.pinimg.com/originals/ca/f7/95/caf7956e99ae518a2c70ec8d7d110089.gif"/>
 
-<h2 align="leaft"> Main Sckills: </h2>
+<h2 align="leaft"> Main Skills: </h2>
    <li>
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
