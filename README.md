@@ -65,6 +65,14 @@
           height="50"
         />
       </li>
+      <li>
+        <img
+          src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg"
+          width="22"
+          height="22"
+        />
+        Tailwindcss
+      </li>
 <li>
         <img
           src="https://bestofjs.org/logos/stitches.svg"
