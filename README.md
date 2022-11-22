@@ -3,9 +3,10 @@
 
 
 ### ✍🏼 About
-Responsable for development and maintenance of scalable system applications made in NodeJs and React. <img align="right" src="https://i.pinimg.com/originals/ca/f7/95/caf7956e99ae518a2c70ec8d7d110089.gif"/>
+<li>Responsable for development and maintenance of scalable system applications made in NodeJs and React.</li>
+  <li>Graduating in System Information</li>
 
-
+<img align="right" src="https://i.pinimg.com/originals/ca/f7/95/caf7956e99ae518a2c70ec8d7d110089.gif"/>
 
 ### 🚀 Main Skills 
 
@@ -21,6 +22,4 @@ Responsable for development and maintenance of scalable system applications made
 
 
 
-## 📗 Documentation
-Access project documentation: [Organize API DOCs](https://organize-api-v1.herokuapp.com/#/)
 
