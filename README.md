@@ -21,5 +21,5 @@
 ### Other: ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-
+### Contact: [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Granjense-996dff?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-granjense-5869811b8/)](https://www.linkedin.com/in/lucas-granjense-5869811b8/) [![Gmail Badge](https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-996dff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)](mailto:https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)
 
