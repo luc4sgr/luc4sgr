@@ -1,126 +1,26 @@
-<h1 align="leaft"> I'm Lucas Granjense 👋</h2><img align="right"src="https://i.pinimg.com/originals/ca/f7/95/caf7956e99ae518a2c70ec8d7d110089.gif"/>
 
-<h2 align="leaft"> Main Skills: </h2>
-   <li>
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
-          width="22"
-          height="22"
-        />
-        React and React Native
-      </li>
-     <li>
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
-          width="20"
-          height="20"
-        />
-        Typescript
-      </li>
-        <li>
-        <img
-          src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"
-          width="20"
-          height="20"
-        />
-        JavaScript
-      </li>
-              <li>
-        <img
-          src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png"
-          width="20"
-          height="20"
-        />
-        Flutter
-      </li>
-    <li>
-        <img
-          src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"
-          width="20"
-          height="20"
-        />
-        NodeJs
-      </li>
-      <li>
-        <img
-          src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png"
-          width="60"
-          height="40"
-        />
-      </li>
-    <li>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          width="20"
-          height="20"
-        />
-        Postgres
-      </li>
+  <h1 align="start"> Hi, developer!
 
-<h2 align="leaft">Tools:</h3>
-<li>
-        <img
-          src="https://website-v9.vercel.app/logo-dark.svg"
-          width="80"
-          height="50"
-        />
-      </li>
-      <li>
-        <img
-          src="https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg"
-          width="22"
-          height="22"
-        />
-        Tailwindcss
-      </li>
-<li>
-        <img
-          src="https://bestofjs.org/logos/stitches.svg"
-          width="22"
-          height="22"
-        />
-        Stitches
-      </li>
-   <li>
-        <img
-          src="https://miro.medium.com/max/960/1*Iohnw2aOQ5EBghVoqKA7VA.png"
-          width="22"
-          height="22"
-        />
-        Styled-components
-      </li>
-      <li>
-     <img
-          src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png"
-          width="22"
-          height="22"
-        />
-        Framer
-      </li>
-       <li>
-        <img
-          src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
-          width="22"
-          height="22"
-        />
-        Redux
-      </li>
-         <li>
-        <img
-          src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-          width="22"
-          height="22"
-        />
-        Git
-      </li>
-        <li>
-        + and more
-      </li>
- <h2>About Me:</h2>
-Responsable for development and maintenance of scalable system applications made in NodeJs and React.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Granjense-996dff?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-granjense-5869811b8/)](https://www.linkedin.com/in/lucas-granjense-5869811b8/) [![Gmail Badge](https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-996dff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)](mailto:https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)
+### ✍🏼 About
+Responsable for development and maintenance of scalable system applications made in NodeJs and React. <img align="right" src="https://i.pinimg.com/originals/ca/f7/95/caf7956e99ae518a2c70ec8d7d110089.gif"/>
 
-<h2>Projects:</h2>
 
-[![CodeSandbox](https://img.shields.io/badge/LOCKED-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://0cyx8e.sse.codesandbox.io/)
+
+### 🚀 Main Skills 
+
+
+|BACK-END| FRONT-END  | 
+|---------------------------------------------------------------|---|
+|![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+|![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)|![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  |
+|![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
+|![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)|![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)|
+ 
+### Other: ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+## 📗 Documentation
+Access project documentation: [Organize API DOCs](https://organize-api-v1.herokuapp.com/#/)
+
