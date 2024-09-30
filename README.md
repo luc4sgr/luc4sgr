@@ -1,16 +1,16 @@
-
-  <h1 align="start"> Lucas Granjense</h1>
-
-
-
-Software Engineer @sangatiberga.
-<p>"I hear people say that effort surpasses talent.
-I like that argument.
-I never wanted to be better than anyone.
-I just had the commitment!"</p>
-
+<h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Granjense-363636?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-granjense-5869811b8/)](https://www.linkedin.com/in/lucas-granjense-5869811b8/)
 [![Gmail Badge](https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-%23363636?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)](mailto:https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)
 
+## My name is Lucas Granjense
+( React JS | NodeJs | Typescript | Javascript | C++ | HTML | CSS ) 🚀
+- 👩‍💻 Software Enginner @[Sangati Berga](https://www.sangatiberga.com.br/)
+- 🎓 Student @ [Rocketseat](https://www.rocketseat.com.br/)
+- 💡 Like new challenges
 
+<div align="left">
+  
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sgr&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
