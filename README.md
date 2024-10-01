@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-%23363636?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)](mailto:https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorison.gilles@gmail.com)
 
 ## My name is Lucas Granjense
-( React JS | NodeJs | Typescript | Javascript | C++ | HTML | CSS ) 🚀
+ React JS | NodeJs | Typescript | Javascript | C++ | HTML | CSS  🚀
 - 🎓 Graduated in Information Systems
 - 💡 Like new challenges
 
