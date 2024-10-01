@@ -6,7 +6,6 @@
 ## My name is Lucas Granjense
 ( React JS | NodeJs | Typescript | Javascript | C++ | HTML | CSS ) 🚀
 - 🎓 Graduated in Information Systems
-- 🎓 Student @ [Rocketseat](https://www.rocketseat.com.br/)
 - 💡 Like new challenges
 
 <div align="left">
