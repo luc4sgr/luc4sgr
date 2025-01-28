@@ -5,8 +5,8 @@
 
 ## My name is Lucas Granjense
  React JS | NodeJs | Typescript | Javascript | C++ | HTML | CSS  🚀
-- 🎓 Graduated in Information Systems
-- 💡 Like new challenges
+- 🎓 Graduated in Information Systems.
+- 💡 Like new challenges.
 
 <div align="left">
   
