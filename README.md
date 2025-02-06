@@ -10,6 +10,6 @@
 
 <div align="left">
   
-[![Lucas top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sgr&theme=blue-white&langs_count=10&layout=compact&count_private=true&hide=html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![Lucas top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sgr&theme=blue-white&langs_count=10&layout=compact&count_private=true&hide=html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=midnight-purple)
   
  </div>
