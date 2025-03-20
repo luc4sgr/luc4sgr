@@ -30,8 +30,7 @@
 ---
 
 ## 🌐 Meu Portfólio | My Portfolio  
-🔗 **[Portfolio 🚀](https://portfolio-luc4sgr.vercel.app/)**  
+🔗 **[Portfolio](https://portfolio-luc4sgr.vercel.app/)**  
 
 ---
 
-Esse formato mantém o conteúdo simples e acessível para falantes de português e inglês. 🚀
