@@ -3,7 +3,7 @@
 # 🚀 Lucas Granjense | Fullstack Developer  
 
 🔹 **Frontend:** React & Flutter  
-🔹 **Backend:** Node.js & Ruby on Rails  
+🔹 **Backend:** Python, Node.js & Ruby on Rails  
 🔹 **Extras:** TypeScript | JavaScript | C++ | HTML | CSS  
 
 🎯 Criando aplicações rápidas, escaláveis e fáceis de usar.  
