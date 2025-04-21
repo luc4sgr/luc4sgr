@@ -18,7 +18,7 @@
 - 🧬 **Inteligência Artificial:** Aplicação de LLMs, GPTs e automações baseadas em IA para produtividade e análise.  
 - 📊 **Data Analytics:** Manipulação de dados com **Pandas**, visualização e relatórios automatizados.  
 - 🧪 **Scripting Inteligente:** Automação em Python com foco em tarefas repetitivas, raspagem de dados e integração.  
-- 🌐 **Desenvolvimento Web:** SPAs com React, apps mobile com Flutter, e backends robustos com Node.js & Rails.  
+- 🌐 **Desenvolvimento Web:** SPAs com React, apps mobile com React Native e Flutter, e backends robustos com Python, Node.js & Rails.  
 
 ---
 
