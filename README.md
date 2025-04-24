@@ -1,33 +1,39 @@
----
+# 🚀 Lucas Granjense | Intelligent Automation & Fullstack Developer  
 
-# 🚀 Lucas Granjense | Fullstack & Automation Developer  
+🔹 **Especialidades:** Python · AI Automation · Data Analysis · Web Dev  
+🔹 **Frontend:** React · Flutter  
+🔹 **Backend:** Python · Node.js · Ruby on Rails  
+🔹 **Extras:** TypeScript · JavaScript · C++ · HTML/CSS  
 
-🔹 **Especialidades:** Python | n8n | Data Analysis | AI Automation | Web Dev  
-🔹 **Frontend:** React & Flutter  
-🔹 **Backend:** Python, Node.js & Ruby on Rails  
-🔹 **Extras:** TypeScript | JavaScript | C++ | HTML | CSS  
-
-🎯 Desenvolvendo soluções inteligentes, rápidas e escaláveis com foco em **produtividade, automação e dados**.  
-📍 Apaixonado por tecnologia, inovação e boas práticas de engenharia.  
+🎯 Construo soluções inteligentes e automatizadas com foco em **eficiência, dados e escalabilidade**.  
+🧠 Apaixonado por IA, automações com LLMs, visualização de dados e engenharia de software de alta performance.  
 
 ---
 
-## 🧠 Principais Habilidades  
+## 🧠 Principais Competências  
 
-- ⚙️ **Automação de Processos:** Workflows visuais com [n8n](https://n8n.io), integração entre APIs, bots e pipelines de dados.  
-- 🧬 **Inteligência Artificial:** Aplicação de LLMs, GPTs e automações baseadas em IA para produtividade e análise.  
-- 📊 **Data Analytics:** Manipulação de dados com **Pandas**, visualização e relatórios automatizados.  
-- 🧪 **Scripting Inteligente:** Automação em Python com foco em tarefas repetitivas, raspagem de dados e integração.  
-- 🌐 **Desenvolvimento Web:** SPAs com React, apps mobile com React Native e Flutter, e backends robustos com Python, Node.js & Rails.  
+- ⚙️ **Automação com IA & n8n**  
+ Workflows visuais, integração de APIs e bots inteligentes usando [n8n](https://n8n.io), Python e LLMs (GPTs, LangChain, CrewAI).  
+
+- 📊 **Data Analytics & Visualização**  
+ Manipulação de dados com Pandas, visualização interativa com Streamlit, geração de relatórios e dashboards automatizados.  
+
+- 🧬 **Inteligência Artificial Aplicada**  
+ Criação de sistemas inteligentes com agentes autônomos, geração de conteúdo, análise preditiva e processamento de linguagem natural (NLP).  
+
+- 🌐 **Desenvolvimento Web & Mobile**  
+ SPAs com React, apps híbridos com Flutter, e APIs robustas com Node.js e Rails.  
 
 ---
 
-## 🛠️ Tecnologias  
+## 🛠️ Tecnologias & Ferramentas  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![LangChain](https://img.shields.io/badge/-LangChain-4B8BBE?style=flat-square&logo=python&logoColor=white)  
 ![n8n](https://img.shields.io/badge/-n8n-FF6A00?style=flat-square&logo=n8n&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
@@ -39,11 +45,19 @@
 ## 🌎 Onde me encontrar?  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Granjense-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-granjense-5869811b8/)](https://www.linkedin.com/in/lucas-granjense-5869811b8/)  
-[![Gmail Badge](https://img.shields.io/badge/-23.lucasdoliveira@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:23.lucasdoliveira@gmail.com)](mailto:23.lucasdoliveira@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-contact.lucasdev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.lucasdev@gmail.com)](mailto:contact.lucasdev@gmail.com)  
 
 ---
 
 ## 🌐 Meu Portfólio  
+
 🔗 **[portfolio-luc4sgr.vercel.app](https://portfolio-luc4sgr.vercel.app/)**  
 
 ---
+
+## 💡 Em Destaque  
+
+🚧 Em transição para atuar 100% com **Inteligência Artificial e Análise de Dados**, aproveitando minha base sólida em engenharia de software e automação.  
+🎯 Foco atual: agentes autônomos com LLMs, IA aplicada a produtividade e visual analytics.
+
+Se quiser trocar ideias ou colaborar em projetos com foco em IA e automações, **me chama!**
