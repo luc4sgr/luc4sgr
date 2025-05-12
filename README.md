@@ -79,11 +79,5 @@ Se quiser trocar ideias ou colaborar em projetos com foco em IA e automações, 
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sgr&layout=compact&hide_border=true&langs_count=6&card_width=320" alt="luc4sgr's Top Langs" height="165">
     </picture>
     </a>
-    <!--<a href="https://github.com/luc4sgr">
-    <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=luc4sgr&theme=prussian&hide_border=true&mode=weekly">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=luc4sgr&hide_border=true&mode=weekly" alt="luc4sgr's Streak" height="165">
-    </picture>
-    </a>-->
   </p>
 </div>
